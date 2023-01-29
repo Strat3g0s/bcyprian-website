@@ -1,15 +1,12 @@
-title: Blog
+title: Your awesome title
 author:
-  name: C
-  email: bcyprian [at] hotmail {dot} com
+  name: GitHub User
+  email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-This website introduces tools in an analytical framework for translating business needs and requirements into actionable work for technologists.  
-#  Write an awesome description for your new site here. You can edit this line
-#  in _config.yml. It will appear in your document head meta (for Google search
-#  results) and in your feed.xml site description.
+ This website introduces tools in an analytical framework for translating business needs and requirements into actionable work for technologists.
 
 # Build settings
 
